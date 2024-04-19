@@ -6,3 +6,4 @@ bread
 coffee
 butter
 egg
+toilet paper
